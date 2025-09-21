@@ -1,4 +1,3 @@
-# Binary-Clock
 Displays a clock represented in binary with three rows, one for hour, minute, and second. 
 Default mode is military time, when the joystick on the Sense Hat is pressed the display changes to standard time.
 From midnight to noon the display is dimmed for night time. 
